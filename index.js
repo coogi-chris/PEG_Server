@@ -23,8 +23,8 @@ var CronJob = require('cron').CronJob;
 const settings = {
         token: {
             key: fs.readFileSync('./certs/AuthKey_A6Y67SXHHB.p8'), 
-            keyId: 'A6Y67SXHHB',
-            teamId: 'PV997N5427',
+            keyId: 'A6Y6D7SXHHB',
+            teamId: 'PV997AN5427',
         },
         production: false
 };
